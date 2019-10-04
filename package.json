@@ -1,0 +1,21 @@
+{
+    "name": "aramoks-black",
+    "displayName": "Aramok's Black",
+    "description": "for those who are not content with less",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aramok's Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aramok's Black-color-theme.json"
+            }
+        ]
+    }
+}
