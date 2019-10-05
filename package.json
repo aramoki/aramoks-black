@@ -1,8 +1,10 @@
 {
     "name": "aramoks-black",
     "displayName": "Aramok's Black",
-    "description": "for those who are not content with less",
-    "version": "0.0.1",
+    "description": "For those who are not content with less",
+    "version": "1.0.2",
+    "icon": "https://github.com/aramoki/aramoks-black/blob/master/aramoks-black.png",
+    "publisher": "aramok",
     "engines": {
         "vscode": "^1.38.0"
     },
