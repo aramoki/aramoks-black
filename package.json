@@ -1,37 +1,56 @@
 {
-    "name": "aramoks-black",
-    "displayName": "Aramok's Black",
-    "description": "For those who are not content with less",
-    "version": "1.1.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/aramoki/aramoks-black"
-      },
-    "icon": "images/aramoks-black.png",
-    "publisher": "aramok",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "author": {
-        "name": "Sencer Aramok"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Aramok's Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Aramok's Black-color-theme.json"
-            } 
-        ] ,
-        "iconThemes": [
-            {
-              "id": "aramoks-focus",
-              "label": "Aramok's Focus",
-              "path": "./themes/Aramok's Focus-icon-theme.json"
-            }
-          ]
-    }
+	"name": "aramoks-black",
+	"displayName": "Aramok's Black",
+	"description": "For those who are not content with less",
+	"version": "1.1.1",
+	"author": {
+		"name": "Sencer Aramok",
+		"email": "mohorame@gmail.com"
+	},
+	"publisher": "aramok",
+	"license": "SEE LICENSE IN LICENSE",
+	"homepage": "https://github.com/aramoki/aramoks-black/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/aramoki/aramoks-black/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aramoki/aramoks-black"
+	},
+	"icon": "images/aramoks-black.png",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#2b2b5a",
+		"theme": "dark"
+	},
+	"keywords": [
+		"aramok",
+		"dark",
+		"black",
+		"contrast",
+		"theme",
+		"icon"
+	],
+	"main": "./src/extension",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Aramok's Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aramok's Black-color-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "aramoks-focus",
+				"label": "Aramok's Focus",
+				"path": "./themes/Aramok's Focus-icon-theme.json"
+			}
+		]
+	}
 }

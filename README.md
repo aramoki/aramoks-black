@@ -13,7 +13,7 @@ for suggestions and support feel free to send message to
 aramoks-black-vscode-theme-support@aramok.net
 
 
-#repository
+repository
 https://github.com/aramoki/aramoks-black
 
   
