@@ -2,11 +2,18 @@
     "name": "aramoks-black",
     "displayName": "Aramok's Black",
     "description": "For those who are not content with less",
-    "version": "1.0.2",
-    "icon": "https://github.com/aramoki/aramoks-black/blob/master/aramoks-black.png",
+    "version": "1.0.3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aramoki/aramoks-black"
+      },
+    "icon": "images/aramoks-black.png",
     "publisher": "aramok",
     "engines": {
         "vscode": "^1.38.0"
+    },
+    "author": {
+        "name": "Sencer Aramok"
     },
     "categories": [
         "Themes"
