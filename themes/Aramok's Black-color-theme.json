@@ -1,17 +1,19 @@
 {
 	"tokenColors": "./aramok.tmTheme",
 	"colors": {
-		"editor.background": "#000000",
-		"editorCursor.foreground": "#ffffff",
+		"editor.background": "#000000ff",
+		"editorCursor.foreground": "#ffcc00",
+
 		"editor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff40",
-		"editor.lineHighlightBackground": "#000000ff",
+		"editor.lineHighlightBackground": "#1c1c1c",
 		"editor.selectionBackground": "#ffffff33" ,
-		"editor.selectionHighlightBackground": "#6c5600",
+		"editor.selectionHighlightBackground": "#ffcd0581",
 		"editor.wordHighlightBackground": "#575757",
+		
 
 		"sideBar.background": "#000000",
-		"sideBar.border": "#000033",
+		"sideBar.border": "#35426b",
 		"sideBarSectionHeader.background": "#000033",
 		"sideBarSectionHeader.border": "#000033",
 		"sideBar.foreground": "#ffffff",
@@ -21,11 +23,11 @@
 		"badge.background": "#660000" ,
 		"badge.foreground": "#ffffff",
 
-		"activityBar.border": "#000033",
+		"activityBar.border": "#35426b",
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#ffcc00",
-		"activityBarBadge.background": "#333333",
-		"activityBarBadge.foreground": "#ffcc00",
+		"activityBarBadge.background": "#222222",
+		"activityBarBadge.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#666666",
 
 		"breadcrumb.background": "#000000",
@@ -35,14 +37,15 @@
 		"breadcrumb.foreground": "#00fffb" ,
 
 		"dropdown.background": "#000000",
+		"dropdown.border": "#999999",
 
 
 		"editorGutter.background": "#050505",
 		"peekViewEditorGutter.background": "#00074b",
 		"peekViewEditor.background": "#000033",
 		"peekView.border": "#0000ff",
-		"peekViewResult.background": "#000000",
-		"peekViewResult.fileForeground": "#00ff00",
+		"peekViewResult.background": "#090b13",
+		"peekViewResult.fileForeground": "#7998fd",
 		"peekViewTitle.background": "#000099",
 		"editorGutter.addedBackground": "#014601" ,
 		"editorGutter.commentRangeForeground": "#f1ff28",
@@ -65,7 +68,8 @@
 		"tab.inactiveForeground": "#cccccc",
 		"tab.hoverBackground": "#000033",
 
-		
+		"editorWidget.background": "#000000",
+		"editorWidget.border": "#ffffff",
 
 
 		"terminal.background": "#000000",
@@ -82,7 +86,7 @@
 		"panel.background": "#000000",
 		"panel.border": "#ff0000" ,
 		"panelTitle.activeForeground": "#ffffff",
-		"editorWidget.border": "#ffcc00",
+		
 		"input.background": "#000000",
 		"input.border": "#999999" ,
 		"scrollbarSlider.background": "#cccccc66",
@@ -95,7 +99,18 @@
 		"editorGroupHeader.tabsBackground": "#000000",
 	
 		"button.background": "#12122c" ,
-		"button.hoverBackground": "#2b2b5a"
+		"button.hoverBackground": "#2b2b5a",
+
+		"editorGroup.border": "#666666" ,
+		"editorGroup.dropBackground" : "#2b2b5a",
+		"debugToolBar.border": "#191936",
+		"debugToolBar.background": "#191936",
+		"statusBar.debuggingBackground": "#2b2b5a",
+		"statusBar.debuggingForeground": "#ffffff",
+		
+		
 	},
-	"name": "Aramok's Black"
+	"name": "Aramok's Black" ,
+
+	
 }

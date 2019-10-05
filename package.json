@@ -2,7 +2,7 @@
     "name": "aramoks-black",
     "displayName": "Aramok's Black",
     "description": "For those who are not content with less",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "repository": {
         "type": "git",
         "url": "https://github.com/aramoki/aramoks-black"
@@ -24,7 +24,7 @@
                 "label": "Aramok's Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Aramok's Black-color-theme.json"
-            }
-        ]
+            } 
+        ] 
     }
 }
