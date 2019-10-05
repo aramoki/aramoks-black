@@ -24,19 +24,7 @@
 	"categories": [
 		"Themes"
 	],
-	"galleryBanner": {
-		"color": "#2b2b5a",
-		"theme": "dark"
-	},
-	"keywords": [
-		"aramok",
-		"dark",
-		"black",
-		"contrast",
-		"theme",
-		"icon"
-	],
-	"main": "./src/extension",
+
 	"contributes": {
 		"themes": [
 			{
