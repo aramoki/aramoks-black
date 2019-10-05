@@ -81,6 +81,11 @@
 		"menu.foreground": "#81fa68",
 		"debugToolBar.border": "#191936",
 		"debugToolBar.background": "#191936",
+		"welcomePage.background": "#222222",
+		"welcomePage.buttonBackground": "#292929",
+		"welcomePage.buttonHoverBackground": "#191936",
+		"textLink.foreground": "#ffcc00",
+		"textLink.activeForeground": "#ffff00"
 	},
 	"name": "Aramok's Black",
 	"tokenColors": [
