@@ -1,0 +1,76 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./../images/icons/folder.svg"
+	},
+	"_root_folder": {
+		"iconPath": "./../images/icons/folder.svg"
+	},
+	"_folder_vscode": {
+		"iconPath": "./../images/icons/folder_vscode.svg"
+	},
+	"_file": {
+		"iconPath": "./../images/icons/file.svg"
+	},
+	"_file_c": {
+		"iconPath": "./../images/icons/file_c.svg"
+	},
+	"_file_h" : {
+		"iconPath": "./../images/icons/file_h.svg"
+	},
+	"_file_css" : {
+		"iconPath": "./../images/icons/file_css.svg"
+	},
+	"_file_html" : {
+		"iconPath": "./../images/icons/file_html.svg"
+	},
+	"_file_js" : {
+		"iconPath": "./../images/icons/file_js.svg"
+	},
+	"_file_json" : {
+		"iconPath": "./../images/icons/file_json.svg"
+	},
+	"_file_txt" : {
+		"iconPath": "./../images/icons/file_txt.svg"
+	},
+	"_file_ignore" : {
+		"iconPath": "./../images/icons/file_ignore.svg"
+	},
+	"_image" : {
+		"iconPath": "./../images/icons/image.svg"
+	}
+  },
+
+	"file": "_file",
+	"folder": "_folder",
+	"rootFolder": "_root_folder",
+	"folderNames": {
+		".vscode": "_folder_vscode"
+	},
+	"fileExtensions": {
+		"ini"	: "_file_c",
+		"c"		: "_file_c",
+		"cpp"	: "_file_c",
+		"h"		: "_file_h",
+		"css"	: "_file_css",
+		"html"	: "_file_html",
+		"js"	: "_file_js",
+		"json"	: "_file_json",
+		"txt"	: "_file_txt",
+		"md" : "_file_ignore",
+		"ignore" : "_file_ignore",
+		"gitignore" : "_file_ignore",
+		"vscodeignore" : "_file_ignore",
+		"png" : "_image",
+		"gif" : "_image",
+		"jpg" : "_image",
+		"jpeg" : "_image",
+		"bmp" : "_image",
+		"tiff" : "_image",
+		"ico" : "_image",
+		"svg" : "_image",
+	},
+	"fileNames": {
+		// icons by file name
+	}
+}

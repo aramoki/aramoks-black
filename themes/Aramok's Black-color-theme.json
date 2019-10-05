@@ -77,7 +77,7 @@
 		"button.background": "#12122c" ,
 		"button.hoverBackground": "#2b2b5a",
 		"editorGroup.border": "#666666" ,
-		"editorGroup.dropBackground" : "#2b2b5a",
+		"editorGroup.dropBackground" : "#2b2b5acc",
 		"debugToolBar.border": "#191936",
 		"debugToolBar.background": "#191936",
 		"statusBar.debuggingBackground": "#2b2b5a",
