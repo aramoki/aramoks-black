@@ -5,5 +5,6 @@ All notable changes to the "aramoks-black" extension will be documented in this 
 
 ## [Unreleased]
 
+- More vivid colors
 - Minor fix , forgotten colors added :) 
 - Initial release
