@@ -3,7 +3,7 @@
 	"colors": {
 		"titleBar.border": "#000000",
 		"titleBar.activeBackground": "#000000ff",
-		"titleBar.activeForeground": "#00ccff",
+		"titleBar.activeForeground": "#45daff",
 		"scrollbarSlider.background": "#cccccc66",
 		"editor.background": "#000000ff",
 		"editorCursor.foreground": "#ffcc00",
@@ -82,7 +82,7 @@
 		"debugToolBar.border": "#191936",
 		"debugToolBar.background": "#191936",
 	},
-	"name": "Aramok's Black O",
+	"name": "Aramok's Black",
 	"tokenColors": [
 		{
 			"name": "Function declarations",
