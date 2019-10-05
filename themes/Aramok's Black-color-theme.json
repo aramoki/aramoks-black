@@ -11,17 +11,17 @@
 		"editor.wordHighlightBackground": "#575757",
 
 		"sideBar.background": "#000000",
-		"sideBar.border": "#64500e",
-		"sideBarSectionHeader.background": "#64500e",
-		"sideBarSectionHeader.border": "#64500e",
+		"sideBar.border": "#000033",
+		"sideBarSectionHeader.background": "#000033",
+		"sideBarSectionHeader.border": "#000033",
 		"sideBar.foreground": "#ffffff",
-		"sideBarTitle.foreground": "#ffcc00",
+		"sideBarTitle.foreground": "#b9b9ff",
 		
 
 		"badge.background": "#660000" ,
 		"badge.foreground": "#ffffff",
 
-		"activityBar.border": "#64500e",
+		"activityBar.border": "#000033",
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#ffcc00",
 		"activityBarBadge.background": "#333333",
@@ -88,10 +88,14 @@
 		"scrollbarSlider.background": "#cccccc66",
 		"list.activeSelectionBackground": "#111111" ,
 		"list.activeSelectionForeground": "#00fffb" ,
+		
 		"list.hoverBackground": "#2c145f7a" ,
 		"tree.indentGuidesStroke": "#ffcc00",
 		
 		"editorGroupHeader.tabsBackground": "#000000",
+	
+		"button.background": "#12122c" ,
+		"button.hoverBackground": "#2b2b5a"
 	},
 	"name": "Aramok's Black"
 }
