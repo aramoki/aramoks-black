@@ -1,4 +1,4 @@
-# Aramok's Black Theme  🆚️✴️
+# Aramok's Black Theme
 
 ![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/screenshot1.png)
 ***
