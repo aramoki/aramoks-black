@@ -21,7 +21,7 @@
 		
 		"editor.selectionBackground": "#ffffff33",
 		"editor.selectionForeground": "#000000cc",
-		"editor.selectionHighlightBackground": "#ffffff50",
+		"editor.selectionHighlightBackground": "#e9ba0083",
 
 		"editor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff40",
