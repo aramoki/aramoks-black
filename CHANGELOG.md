@@ -3,6 +3,7 @@ All notable changes to the "aramoks-black" extension will be documented in this 
 
 
 ## [Unreleased]
+- Search highlight colors changed
 - License added
 - File Icon Theme Added
 - More vivid colors
