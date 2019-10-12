@@ -8,21 +8,15 @@
 		"editor.background": "#000000ff",
 		"editorCursor.foreground": "#ffffff",
 		"editorCursor.background": "#5f3b23",
-		
 		"editor.findMatchBackground": "#ff802bcc",		
 		"editor.findMatchBorder": "#ff802b",
-
 		"editor.findMatchHighlightBackground": "#ff444437",
 		"editor.findMatchHighlightBorder": "#ff4444aa",
-
-
 		"editor.rangeHighlightBackground": "#3a3a3a",
 		"editor.findRangeHighlightBackground": "#3a3a3a",
-		
 		"editor.selectionBackground": "#ffffff33",
 		"editor.selectionForeground": "#000000cc",
 		"editor.selectionHighlightBackground": "#e9ba0083",
-
 		"editor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff40",
 		"editor.lineHighlightBackground": "#1c1c1c",
@@ -99,7 +93,9 @@
 		"welcomePage.buttonBackground": "#292929",
 		"welcomePage.buttonHoverBackground": "#191936",
 		"textLink.foreground": "#ffcc00",
-		"textLink.activeForeground": "#ffff00"
+		"textLink.activeForeground": "#ffff00",
+		"progressBar.background": "#ff5500",
+		"imagePreview.border": "#999999"
 	},
 	"name": "Aramok's Black",
 	"tokenColors": [
