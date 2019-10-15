@@ -2,7 +2,11 @@
 	"name": "aramoks-black",
 	"displayName": "Aramok's Black",
 	"description": "For those who are not satisfied with less colors. Let your mind to focus more , return true;",
+<<<<<<< HEAD
 	"version": "1.2.0",
+=======
+	"version": "1.1.10",
+>>>>>>> 9321d55f1d6824aef46d910c57223969a9b46ac1
 	"author": {
 		"name": "Sencer Aramok",
 		"email": "mohorame@gmail.com"
