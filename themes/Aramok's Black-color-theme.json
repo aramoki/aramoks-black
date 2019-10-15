@@ -3,7 +3,7 @@
 	"colors": {
 		"titleBar.border": "#000000",
 		"titleBar.activeBackground": "#000000ff",
-		"titleBar.activeForeground": "#45daff",
+		"titleBar.activeForeground": "#4bb3ce",
 		"scrollbarSlider.background": "#cccccc66",
 		"editor.background": "#000000ff",
 		"editorCursor.foreground": "#ffffff",
@@ -84,7 +84,7 @@
 		"list.activeSelectionForeground": "#00fffb",
 		"list.hoverBackground": "#2c145f7a",
 		"button.background": "#12122c",
-		"button.hoverBackground": "#2b2b5a",
+		"button.hoverBackground": "#3a3a77",
 		"input.background": "#000000",
 		"input.border": "#999999",
 		"dropdown.background": "#000000",
@@ -98,8 +98,8 @@
 		"welcomePage.background": "#222222",
 		"welcomePage.buttonBackground": "#292929",
 		"welcomePage.buttonHoverBackground": "#191936",
-		"textLink.foreground": "#ffcc00",
-		"textLink.activeForeground": "#ffff00"
+		"textLink.foreground": "#e9ba01",
+		"textLink.activeForeground": "#e9e903"
 	},
 	"name": "Aramok's Black",
 	"tokenColors": [
