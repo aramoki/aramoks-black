@@ -13,12 +13,10 @@
 > - File Icons with more focusable colors
 > - *Update* New Crimson Black theme is added.
 
-
+![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/CrimsonBlack.png)
 
 ### ☁️ Url's
-> - Previews : [Screenshot_1](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/screenshot1.png)
-> - Webpage : [aramok.net](https://aramok.net)
-> - E-Mail : <aramoks-black-vscode-theme-support@aramok.net>
+> - Previews : [Check Repository]
 > - Repository : [github.com/aramoki/aramoks-black](https://github.com/aramoki/aramoks-black)
 
 
