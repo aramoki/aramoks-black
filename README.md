@@ -13,7 +13,7 @@
 > - File Icons with more focusable colors
 > - *Update* New Crimson Black theme is added.
 
-![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/CrimsonBlack.png)
+![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/CrimsonBlack.png)
 
 ### ☁️ Url's
 > - Previews : [Check Repository]
