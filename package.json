@@ -2,7 +2,7 @@
 	"name": "aramoks-black",
 	"displayName": "Aramok's Black",
 	"description": "For those who are not satisfied with less colors. Let your mind to focus more , return true;",
-	"version": "1.2.10",
+	"version": "1.3.0",
 	"author": {
 		"name": "Sencer Aramok",
 		"email": "mohorame@gmail.com"
@@ -47,6 +47,11 @@
 				"label": "Aramok's GLX Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Aramok's GLX Black-color-theme.json"
+			},
+            {
+				"label": "Aramok's Crimson Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aramok's Crimson Black-color-theme.json"
 			}
 		],
 		"iconThemes": [
@@ -54,6 +59,11 @@
 				"id": "aramoks-focus",
 				"label": "Aramok's Focus",
 				"path": "./themes/Aramok's Focus-icon-theme.json"
+			},
+            {
+				"id": "aramoks-emoji",
+				"label": "Aramok's Emoji",
+				"path": "./themes/Aramok's Emoji-icon-theme.json"
 			}
 		]
 	}

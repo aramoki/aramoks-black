@@ -4,10 +4,14 @@
 
 ***
 
+
 ## 🐲  Aramok's Black  
 > - Dark theme vivid colors
-> - Inspired from high contrast theme
+> - Inspired by high contrast theme
+> - Recommended for C/C++ projects.
+> - New theme "Crimson Black" is added.
 > - File Icons with more focusable colors
+> - *Update* New Crimson Black theme is added.
 
 
 

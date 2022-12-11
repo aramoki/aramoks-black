@@ -1,0 +1,94 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "fontCharacter": "dir",
+      "fontSize": "8pt",
+      "fontColor": "#ffc966"
+	},
+	"_root_folder": {
+        "fontCharacter": "root",
+        "fontSize": "8pt",
+        "fontColor": "#ffc966"
+	},
+	"_folder_vscode": {
+        "fontCharacter": ".vs ",
+        "fontSize": "8pt",
+        "fontColor": "#b566ff"
+	},
+	"_file": {
+        "fontCharacter": "file",
+        "fontSize": "8pt",
+        "fontColor": "#cccccc"
+	},
+	"_file_source": {
+        "fontCharacter": ".cc",
+        "fontSize": "8pt",
+        "fontColor": "#cc6666"
+	},
+	"_file_header" : {
+        "fontCharacter": ".hh",
+        "fontSize": "8pt",
+        "fontColor": "#6666cc"
+	},
+	"_file_webrelated" : {
+        "fontCharacter": "web",
+        "fontSize": "8pt",
+        "fontColor": "#6666cc"
+	},
+	"_file_ignore" : {
+        "fontCharacter": "file",
+        "fontSize": "8pt",
+        "fontColor": "#66fffc"
+	},
+	"_image" : {
+        "fontCharacter": "img",
+        "fontSize": "8pt",
+        "fontColor": "#66ff66"
+	},
+    "_artifact" : {
+        "fontCharacter": "***",
+        "fontSize": "8pt",
+        "fontColor": "#ff6966"
+	},
+  },
+
+	"file": "_file",
+	"folder": "_folder",
+	"rootFolder": "_root_folder",
+	"folderNames": {
+		".vscode": "_folder_vscode"
+	},
+	"fileExtensions": {
+		"c"		: "_file_source",
+		"cpp"	: "_file_source",
+		"h"		: "_file_header",
+        "hpp"	: "_file_header",
+		"css"	: "_file_webrelated",
+		"html"	: "_file_webrelated",
+		"js"	: "_file_webrelated",
+		"json"	: "_file_webrelated",
+		"txt"	: "_file_ignore",
+        "ini"	: "_file_ignore",
+		"md" : "_file_ignore",
+		"ignore" : "_file_ignore",
+		"gitignore" : "_file_ignore",
+		"vscodeignore" : "_file_ignore",
+		"png" : "_image",
+		"gif" : "_image",
+		"jpg" : "_image",
+		"jpeg" : "_image",
+		"bmp" : "_image",
+		"tiff" : "_image",
+		"ico" : "_image",
+		"svg" : "_image",
+        "hdr" : "_image",
+        "exr" : "_image",
+        "lib" : "_artifact",
+        "a" : "_artifact",
+        "exe" : "_artifact",
+        "uf2" : "_artifact",
+	},
+	"fileNames": {
+		// icons by file name
+	}
+}
