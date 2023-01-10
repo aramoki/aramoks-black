@@ -48,7 +48,7 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/Aramok's GLX Black-color-theme.json"
 			},
-            {
+			{
 				"label": "Aramok's Crimson Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Aramok's Crimson Black-color-theme.json"
@@ -60,7 +60,7 @@
 				"label": "Aramok's Focus",
 				"path": "./themes/Aramok's Focus-icon-theme.json"
 			},
-            {
+			{
 				"id": "aramoks-text",
 				"label": "Aramok's Text",
 				"path": "./themes/Aramok's Text-icon-theme.json"
