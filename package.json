@@ -2,10 +2,9 @@
 	"name": "aramoks-black",
 	"displayName": "Aramok's Black",
 	"description": "For those who are not satisfied with less colors. Let your mind to focus more , return true;",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"author": {
-		"name": "Sencer Aramok",
-		"email": "mohorame@gmail.com"
+		"name": "Sencer Aramok"
 	},
 	"publisher": "aramok",
 	"license": "SEE LICENSE IN LICENSE",
@@ -34,7 +33,9 @@
 		"contrast",
 		"theme",
 		"icons",
-		"aramok"
+		"aramok",
+		"monochrome",
+		"amoled"
 	],
 	"contributes": {
 		"themes": [
@@ -66,5 +67,8 @@
 				"path": "./themes/Aramok's Text-icon-theme.json"
 			}
 		]
+	},
+	"dependencies": {
+		"vsce": "^2.15.0"
 	}
 }
