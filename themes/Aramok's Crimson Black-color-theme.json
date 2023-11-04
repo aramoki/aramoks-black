@@ -7,6 +7,8 @@
 		"debugConsoleInputIcon.foreground": "#00e5ff",
 		"debugExceptionWidget.background": "#ff0000",
 		"debugExceptionWidget.border": "#ff0000",
+
+
 		"debugIcon.breakpointCurrentStackframeForeground": "#ffffff",
 		"debugIcon.breakpointDisabledForeground": "#797979",
 		"debugIcon.breakpointForeground": "#ff0000",
@@ -22,11 +24,14 @@
 		"debugIcon.stepOutForeground": "#838383",
 		"debugIcon.stepOverForeground": "#7a7a7a",
 		"debugIcon.stopForeground": "#ff0000",
+		
 		"debugView.exceptionLabelBackground": "#ff0000",
-		"debugView.exceptionLabelForeground": "#ff0000",
+		"debugView.exceptionLabelForeground": "#ffffff",
 		"debugView.stateLabelBackground": "#ff0000",
-		"debugView.stateLabelForeground": "#ff0000",
+		"debugView.stateLabelForeground": "#ffffff",
 		"debugView.valueChangedHighlight": "#ffea00",
+
+		
 		"statusBar.debuggingBorder": "#111",
 		"statusBar.debuggingBackground": "#4c4c4c",
 		"statusBar.debuggingForeground": "#ffffff",
@@ -58,11 +63,13 @@
 		"titleBar.border": "#111",
 		"titleBar.activeBackground": "#000000ff",
 		"titleBar.activeForeground": "#777",
-		"quickInput.foreground": "#fff",
-		"quickInput.background": "#000000",
-		"quickInputList.focusBackground": "#fff",
-		"quickInputList.focusForeground": "#000",
-        "scrollbarSlider.background": "#66666677",
+		"quickInput.background": "#000",
+		"quickInput.foreground": "#999",
+		"quickInputList.focusBackground": "#222",
+		"quickInputList.focusForeground": "#ffffff",
+
+
+        "scrollbarSlider.background": "#47141477",
         "scrollbarSlider.hoverBackground": "#666666aa",
         "scrollbarSlider.activeBackground": "#666666cc",
 		"editor.background": "#000000",
