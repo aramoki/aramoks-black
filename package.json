@@ -53,6 +53,11 @@
 				"label": "Aramok's Crimson Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Aramok's Crimson Black-color-theme.json"
+			},
+			{
+				"label": "Aramok's Takumi Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aramok's Takumi Black-color-theme.json"
 			}
 		],
 		"iconThemes": [
