@@ -1,5 +1,10 @@
 # Aramok's Black Theme
 
+
+## 2026 New Modern Takumi Black Theme Released
+
+![Modern Takumi Black Theme](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/modern.jpg)
+
 ![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/demo.gif)
 
 ***
@@ -12,6 +17,7 @@
 > - New theme "Crimson Black" is added.
 > - File Icons with more focusable colors
 > - *Update* New Crimson Black theme is added.
+
 
 ![alt text](https://raw.githubusercontent.com/aramoki/aramoks-black/master/images/CrimsonBlack.png)
 
