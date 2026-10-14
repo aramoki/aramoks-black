@@ -15,6 +15,11 @@
         "fontSize": "8pt",
         "fontColor": "#b566ff"
 	},
+	"_folder_build": {
+        "fontCharacter": "##",
+        "fontSize": "10pt",
+        "fontColor": "#ff0000"
+	},
 	"_file": {
         "fontCharacter": "file",
         "fontSize": "8pt",
@@ -28,7 +33,7 @@
 	"_file_header" : {
         "fontCharacter": ".hh",
         "fontSize": "8pt",
-        "fontColor": "#6666cc"
+        "fontColor": "#7a7aff"
 	},
 	"_file_webrelated" : {
         "fontCharacter": "web",
@@ -36,9 +41,9 @@
         "fontColor": "#6666cc"
 	},
 	"_file_ignore" : {
-        "fontCharacter": "file",
+        "fontCharacter": "ign",
         "fontSize": "8pt",
-        "fontColor": "#66fffc"
+        "fontColor": "#909090"
 	},
 	"_image" : {
         "fontCharacter": "img",
@@ -46,9 +51,74 @@
         "fontColor": "#66ff66"
 	},
     "_artifact" : {
-        "fontCharacter": "***",
-        "fontSize": "8pt",
+        "fontCharacter": "**",
+        "fontSize": "10pt",
         "fontColor": "#ff6966"
+	},
+    "_md" : {
+        "fontCharacter": "md",
+        "fontSize": "8pt",
+        "fontColor": "#668cff"
+	},
+	"_cmakeliststxt" : {
+        "fontCharacter": "cmk",
+        "fontSize": "7pt",
+        "fontColor": "#66ff6b"
+	},
+	"_script" : {
+        "fontCharacter": "./",
+        "fontSize": "9pt",
+        "fontColor": "#fcff66"
+	},
+	"_elf" : {
+        "fontCharacter": "elf",
+        "fontSize": "9pt",
+        "fontColor": "#66ffbf"
+	},
+	"_su" : {
+        "fontCharacter": "su",
+        "fontSize": "9pt",
+        "fontColor": "#7aff66"
+	},
+	"_gcda" : {
+        "fontCharacter": "gcda",
+        "fontSize": "9pt",
+        "fontColor": "#ffbd66"
+	},
+	"_o" : {
+        "fontCharacter": "obj",
+        "fontSize": "9pt",
+        "fontColor": "#ff8a66"
+	},
+	"_hex" : {
+        "fontCharacter": "0x",
+        "fontSize": "9pt",
+        "fontColor": "#80ff66"
+	},
+	"_ci" : {
+        "fontCharacter": "ci",
+        "fontSize": "9pt",
+        "fontColor": "#66a1ff"
+	},
+	"_inc" : {
+        "fontCharacter": "inc",
+        "fontSize": "9pt",
+        "fontColor": "#66e0ff"
+	},
+	"_src" : {
+        "fontCharacter": "src",
+        "fontSize": "9pt",
+        "fontColor": "#ffa866"
+	},
+	"_bin" : {
+        "fontCharacter": "bin",
+        "fontSize": "9pt",
+        "fontColor": "#c966ff"
+	},
+	"_test" : {
+        "fontCharacter": "test",
+        "fontSize": "9pt",
+        "fontColor": "#ff6666"
 	},
   },
 
@@ -56,7 +126,14 @@
 	"folder": "_folder",
 	"rootFolder": "_root_folder",
 	"folderNames": {
-		".vscode": "_folder_vscode"
+		".vscode": "_folder_vscode",
+		"build" : "_folder_build",
+		".cmake" : "_cmakeliststxt",
+		"inc" : "_inc",
+		"include" : "_inc",
+		"src" : "_src",
+		"source" : "_src",
+		"test" : "_test",
 	},
 	"fileExtensions": {
 		"c"		: "_file_source",
@@ -69,7 +146,7 @@
 		"json"	: "_file_webrelated",
 		"txt"	: "_file_ignore",
         "ini"	: "_file_ignore",
-		"md" : "_file_ignore",
+		"md" : "_md",
 		"ignore" : "_file_ignore",
 		"gitignore" : "_file_ignore",
 		"vscodeignore" : "_file_ignore",
@@ -87,8 +164,19 @@
         "a" : "_artifact",
         "exe" : "_artifact",
         "uf2" : "_artifact",
+        "cmake" : "_cmakeliststxt",
+		"sh" : "_script",
+		"elf" : "_elf",
+		"su" : "_su",
+		"ci" : "_ci",
+		"gcda" : "_gcda",
+		"o" : "_o",
+		"obj" : "_o",
+		"hex" : "_hex",
+		"bin" : "_bin",
 	},
 	"fileNames": {
-		// icons by file name
+		"CMakeLists.txt" : "_cmakeliststxt",
+		"CMakeCache.txt" : "_cmakeliststxt",
 	}
 }

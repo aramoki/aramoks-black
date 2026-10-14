@@ -1,2 +1,4 @@
 # Change Log
-All notable changes to the "aramoks-black" extension will be documented in this file.
+## 1.3.6
+
+- new theme takumi black added
